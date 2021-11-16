@@ -1,4 +1,4 @@
-# **[TdM ⿻ Client 〽️](https://www.youtube.com/watch?v=0KEX7KgKQ8A)**
+# **[ZxS ⿻ Client 〽️](https://www.youtube.com/watch?v=0KEX7KgKQ8A)**
 **Somente um Crash Client para WhatsApp**
 
 [![Vídeo "Trailer" do Client](https://cdn.discordapp.com/attachments/880068905819844638/884750352468021288/image0.png)](https://www.youtube.com/watch?v=0KEX7KgKQ8A&ab_channel=davizinmaker%CF%9F)
